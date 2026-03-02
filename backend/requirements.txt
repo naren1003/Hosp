@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+pandas
+scikit-learn
+joblib
+numpy
+python-multipart
+celery
+redis
+prophet
